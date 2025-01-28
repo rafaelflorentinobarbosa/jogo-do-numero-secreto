@@ -1,3 +1,5 @@
+![alt text](<pagina jogo numero secreto.jpg>)
+
 # Jogo do Número Secreto 🎮
 
 Bem-vindo ao **Jogo do Número Secreto**, um jogo simples onde você precisa adivinhar o número gerado aleatoriamente entre 1 e 10. Tente acertar o número com o menor número de tentativas possível! 🎯
@@ -49,3 +51,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 ### Boa sorte e divirta-se! 🍀
+
