@@ -52,3 +52,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ### Boa sorte e divirta-se! 🍀
 
+Segue o link do Jogo: [CLIQUE AQUI](https://rafaelflorentinobarbosa.github.io/jogo-do-numero-secreto/)
